@@ -4,7 +4,6 @@ print('Welcome to Arch Made Easy!')
 print('This script will help you learn Arch!')
 print('0-Apply easier .bashrc')
 print('1-Read the documentation')
-os.system('sudo pacman -Syu')
 choose = input('Please choose an option: ')
 if choose == 0:
     file_exists = exists('/usr/bin/python3')

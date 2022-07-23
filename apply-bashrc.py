@@ -12,7 +12,7 @@ def echo(shortcut,command):
 echo('update','"yay -Syu"')
 echo('remove','"yay -Rsu"')
 echo('install','"yay -S"')
-echo('clear','"yay -Scc"')
+echo('clear','"sudo pacman -Scc"')
 echo('root','"sudo"')
 echo('switch-root','"su root"')
 echo('test-connection','"ping wikipedia.org"')

@@ -25,4 +25,4 @@ Close your terminal application and reopen it.Now you have easier commands!
 
 # Commands
 
-Check the wiki.
+Check the [Wiki.](https://github.com/Schwarzeisc00l/arch-made-easy/wiki/_new#commands=)

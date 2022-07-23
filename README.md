@@ -3,7 +3,13 @@ Make Arch easier with aliases for bash and more.
 
 # Requirements
 [yay](https://github.com/Jguer/yay)
+
+
+
 [Enabled Multilib](https://low-orbit.net/arch-linux-how-to-enable-multilib)
+
+
+
 [Nano](https://www.nano-editor.org/)
 
 # Installation

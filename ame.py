@@ -13,5 +13,5 @@ if choose == 0:
     if file_exists == False:
         os.system('sudo pacman -S python3')
         os.system('python3 apply-bashrc.py')
-        print('Done! You can read the documentation now at [insert link]')
+        print('Done! You can read the Wiki now at https://github.com/Schwarzeisc00l/arch-made-easy')
 

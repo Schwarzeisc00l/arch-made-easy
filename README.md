@@ -25,32 +25,4 @@ Close your terminal application and reopen it.Now you have easier commands!
 
 # Commands
 
-```update```
-Update your system:
-
-
-```remove```
-Remove packages/programs
-
-```install```
-Install packages/programs
-
-
-```clear```
-Clear pacman cache to free up some space
-
-```root```
-Run command as root
-
-```switch-root```
-Switch to root account
-
-```test-connection```
-Test your internet connection
-
-
-
-```stop```
-Stop any running programs. You need the full package name.
-
-```kernel```
+Check the wiki.
